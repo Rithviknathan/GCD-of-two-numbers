@@ -23,6 +23,7 @@ RegisterNumber:
 ```
 
 ## Output:
+![Screenshot 2024-03-18 224532](https://github.com/Rithviknathan/GCD-of-two-numbers/assets/148410509/a590091d-eabc-44d8-a6aa-d36cf9202b3f)
 
 
 
